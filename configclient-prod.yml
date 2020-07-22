@@ -1,5 +1,5 @@
 test
   password: '{cipher}22d159f781a548aa51cf29c537bb9922e6292642d637647545a731d1b48a02cc'
-server 
+server
    url: 789
    port: 92
