@@ -1,5 +1,5 @@
 test:
-  password: '{cipher}22d159f781a548aa51cf29c537bb9922e6292642d637647545a731d1b48a02cc'
+  password: '{cipher}431fa2f7c1d4450900ae29f151c16b86c3e46f3e772d3edf328b2f04f8c5576a'
 server: 
    url: 456
    port: 91
