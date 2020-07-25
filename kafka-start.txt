@@ -1,0 +1,10 @@
+
+先启动zookeeper
+
+/usr/home/softwares/kafka2.5/bin/zookeeper-server-start.sh -daemon /usr/home/softwares/kafka2.5/config/zookeeper.properties
+
+再启动 kafka-server
+
+/usr/home/softwares/kafka2.5/bin/kafka-server-start.sh -daemon /usr/home/softwares/kafka2.5/config/server.properties
+
+
